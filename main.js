@@ -16,5 +16,5 @@ var connectHandler = function () {
 
 
     eventEmitter.emit("connection");
-    console.log("程序执行完毕。");
+    ldksfjlsd;flj;lsfj
 
