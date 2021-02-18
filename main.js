@@ -16,5 +16,19 @@ var connectHandler = function () {
 
 
     eventEmitter.emit("connection");
-    console.log("程序执行完毕。");
+<<<<<<< HEAD
+<<<<<<< HEAD
+ asdasdasdasd
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> b48e56c261d0003e3079ef6c71ebb8d5f1b777db
+    ldksfjlsd;flj;lsfj
+=======
+   Creating a new branch is quick AND simple.
+>>>>>>> dev2
+<<<<<<< HEAD
+>>>>>>> b48e56c261d0003e3079ef6c71ebb8d5f1b777db
+=======
+>>>>>>> b48e56c261d0003e3079ef6c71ebb8d5f1b777db
 
