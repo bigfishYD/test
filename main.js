@@ -16,5 +16,5 @@ var connectHandler = function () {
 
 
     eventEmitter.emit("connection");
-    console.log("程序执行完毕。");
+   Creating a new branch is quick AND simple.
 
